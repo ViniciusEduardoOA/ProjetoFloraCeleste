@@ -5,8 +5,8 @@
 
 <h2>📂 Acesso</h2>
 <ul>
-  <li>[🌐 Acesse o Website – Flora Celeste](https://viniciuseduardooa.github.io/ProjetoFloraCeleste/Codigo/)</li>
-  <li>[📑 Documentação Completa ](https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Documentação)</li>
-  <li>[🎨 Design do Projeto ](https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Design))</li>
-  <li>[🖥️ Código Fonte](https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Codigo)</li>
+  <li><a href="https://viniciuseduardooa.github.io/ProjetoFloraCeleste/Codigo/">🌐 Acesse o Website – Flora Celeste</a></li>
+  <li><a href="https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Documentação">📑 Documentação Completa</a></li>
+  <li><a href="https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Design">🎨 Design do Projeto </a></li>
+  <li><a href="https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Codigo">🖥️ Código Fonte</a></li>
 </ul>

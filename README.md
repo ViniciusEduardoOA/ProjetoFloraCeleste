@@ -10,3 +10,30 @@
   <li><a href="https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Design">🎨 Design do Projeto </a></li>
   <li><a href="https://github.com/ViniciusEduardoOA/ProjetoFloraCeleste/tree/main/Codigo">🖥️ Código Fonte</a></li>
 </ul>
+
+<h2>👥 Membros do Projeto</h2>
+
+<h3>🎨 <strong>Design Gráfico</strong></h3>
+<ul>
+  <li>Ana Cristie</li>
+  <li>Giovana Gabrieli</li>
+  <li>Vitor Gabriel</li>
+</ul>
+
+<h3>📄 <strong>Documentação Técnica</strong></h3>
+<ul>
+  <li>Gustavo Dallabrida</li>
+  <li>Ana Caroline</li>
+  <li>Anny Caroline</li>
+</ul>
+
+<h3>💻 <strong>Desenvolvimento de Software</strong></h3>
+<ul>
+  <li>Vinicius Eduardo</li>
+  <li>Erick Henrique</li>
+</ul>
+
+<h3>📊 <strong>Análise de Mercado</strong></h3>
+<ul>
+  <li>Everton Gabriel</li>
+</ul>

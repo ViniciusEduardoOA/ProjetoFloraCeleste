@@ -1,4 +1,4 @@
-<div style="display: inline;">
-  <img src="Codigo/Img/logo.svg" alt="Logo Flora Celeste" style="vertical-align: middle;">
-  <h1 style="display: inline; vertical-align: middle;">Flora Celeste</h1>
+<div style="display: flex; align-items: center;">
+  <img src="Codigo/Img/logo.svg" alt="Logo Flora Celeste" style="margin-right: 10px;">
+  <h1 style="margin: 0;">Flora Celeste</h1>
 </div>
